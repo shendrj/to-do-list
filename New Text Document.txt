@@ -1,6 +1,0 @@
-DOM qourse
-===========
-
-// DOM Selectors
-
-getElementsByTagName
